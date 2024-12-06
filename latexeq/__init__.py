@@ -1,1 +1,1 @@
-
+from equation import equation
