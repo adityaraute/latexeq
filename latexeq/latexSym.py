@@ -1,4 +1,10 @@
+'''
+Source: https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
+'''
+
 symbols_in_latex = {
+    
+    #Greek alphabets
     "α": "\\alpha",
     "κ": "\\varkappa",
     "ψ": "\\psi",
@@ -45,6 +51,23 @@ symbols_in_latex = {
     "ϑ": "\\vartheta",
     "Σ": "\\Sigma",
     "ג": "\\gimel",
+
+    #Math Operation symbols
+    ">": "",
+    ">=": "",
+    "<": "",
+    "<=": "",
+    "=": "",
+    "+": "",
+    ".": "",
+    "-": "",
+    "x": "",
+    "/": "",
+    
+    #Math Special Symbols
+    "sigma": "\\sum",
+    "BigPi": "\\prod",
+    "integral": "\\int",
 }
 
 
