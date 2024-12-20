@@ -7,3 +7,5 @@ setup(
     license='MIT License',
     long_description=open('README.md').read(),
 )
+
+#pytest requires python 3.8+
